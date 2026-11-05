@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/KhalidChouhan313">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;MERN+Stack+%7C+Next.js+%7C+TypeScript;FinTech+%26+Payment+Systems;Scalable+Backend+Architecture;Deploying+on+AWS+with+PM2+%26+Nginx" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;2%2B+Years+Building+Production+Web+Apps;MERN+Stack+%7C+Next.js+%7C+Angular+%7C+TypeScript;FinTech+%26+Payment+Systems;Scalable+Backend+Architecture;Deploying+on+AWS+with+PM2+%26+Nginx" alt="Typing animation" />
   </a>
 </div>
 
@@ -28,21 +28,23 @@
 const khalid = {
   name:      "Khalid Chouhan",
   role:      "Full-Stack Developer (MERN)",
+  experience: "2+ years",
   location:  "Karachi, Pakistan 🇵🇰",
-  focus:     ["FinTech & Payment Systems", "REST APIs", "Scalable Backend Architecture"],
-  frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  focus:     ["FinTech & Payment Systems", "REST APIs", "System Design", "Scalable Backend Architecture"],
+  frontend:  ["React", "Next.js", "Angular", "TypeScript", "Tailwind CSS"],
+  uiState:   ["Ant Design", "MUI", "Zustand", "TanStack Query"],
   backend:   ["Node.js", "Express.js", "MongoDB", "Redis"],
   security:  ["JWT", "OTP / TOTP", "RBAC & Permission Management"],
-  cloud:     ["AWS EC2", "Ubuntu", "PM2", "Nginx"],
-  learning:  "System design and cloud architecture",
+  cloud:     ["AWS EC2", "Azure", "Docker", "Ubuntu", "PM2", "Nginx"],
+  learning:  "Advanced system design and cloud architecture",
 };
 ```
 
-- 💼 **Full-Stack Developer** building modern web apps, APIs and admin dashboards with the MERN stack, Next.js and TypeScript.
+- 💼 **Full-Stack Developer with 2+ years of experience** building modern web apps, APIs and admin dashboards with the MERN stack, Next.js, Angular and TypeScript.
 - 💳 **FinTech experience:** worked on **Instapay**, a payment platform covering IBAN functionality, SEPA transfers, administrative dashboards and backend API development.
 - 🔐 **Security-minded:** JWT authentication, OTP and TOTP verification, role-based access control and fine-grained permission management.
-- 🧩 **Architecture:** micro-frontends with Module Federation and scalable backend design.
-- ☁️ **Deployment:** ship Node.js services to **AWS EC2** on Ubuntu with **PM2** and **Nginx**.
+- 🧩 **Architecture & system design:** micro-frontends with Module Federation, scalable backend design and well-structured state management with Zustand and TanStack Query.
+- ☁️ **Cloud & deployment:** ship Node.js services to **AWS EC2** and **Azure**, containerised with **Docker**, running on Ubuntu with **PM2** and **Nginx**.
 - 📚 **Always learning:** currently going deeper into system design and cloud infrastructure.
 
 <br />
@@ -50,7 +52,7 @@ const khalid = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,mongodb,redis,python,aws,ubuntu,nginx,git,github,vscode,postman&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,bootstrap,materialui,nodejs,express,mongodb,redis,python,aws,azure,docker,ubuntu,nginx,git,github,vscode,postman&perline=12" alt="Tech stack icons" />
 </div>
 
 <br />
@@ -61,12 +63,23 @@ const khalid = {
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>UI &amp; State</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
     </td>
   </tr>
   <tr>
@@ -99,6 +112,8 @@ const khalid = {
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
       <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
